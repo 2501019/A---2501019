@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.Week04" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+</resources>
